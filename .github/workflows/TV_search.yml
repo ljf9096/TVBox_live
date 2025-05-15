@@ -7,10 +7,6 @@ on:
   workflow_dispatch:
 
 jobs:
-  sync_live_list:
-    runs-on: ubuntu-latest
-
-jobs:
   run_script:
     runs-on: ubuntu-latest
 
